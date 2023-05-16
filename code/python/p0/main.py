@@ -1,1 +1,7 @@
-$œ’m…Îmo“LÒDüÜ;˜%gÏ?wêÁÅ·øîùovH0õÉa‡5£Ú*î Ø’ÃÌlÍ››S i
+import sys
+
+print("\nPython version")
+print (sys.version+'\n')
+print("Path")
+print (sys.path)
+print()
